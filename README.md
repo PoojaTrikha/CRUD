@@ -1,3 +1,7 @@
+JSON DATA
+
+Kindly use JSON data from the CRUD-JSON Git Reprository
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
